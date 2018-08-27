@@ -1,2 +1,4 @@
 # MachineLearning_Basics
-This Project gives intiuation for Python in Machine Learning
+ Machine Learning and Data Analysis
+This Projects gives intiuation for Python in Machine Learning
+

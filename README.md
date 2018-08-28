@@ -1,7 +1,7 @@
 # Data Analysis_Basics
  Machine Learning and Data Analysis
-This Projects gives intiuation for Data Analysis in Python 
-requied Software- 
+This Projects gives intiuation for Data Analysis in Python  \n
+requied Software- \n
 Python 3.6
 Jupyter Notebook
 pandas module

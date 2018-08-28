@@ -18,4 +18,5 @@ Numpy module
 Scipy module
 
   or 
+  
 Download the Anaconda Distribution you will get all of the Package pre-installed  

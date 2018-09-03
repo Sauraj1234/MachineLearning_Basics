@@ -1,4 +1,4 @@
-# Data Analysis_Basics
+# Data Analysis and Machine Learning
  Machine Learning and Data Analysis
 This Projects gives intiuation for Data Analysis in Python 
 

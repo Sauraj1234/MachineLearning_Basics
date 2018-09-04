@@ -1,7 +1,7 @@
-•	Performed Classification using Deep Learning, Artificial Neural Networks 
-•	Perform Supervised Learning using Python  
-•	Classify the Animal using CNN (dogs or Cats)
-•	Implementing Keras and TensorFlow to Classify the Image 
-•	Use Gradient Descent Optimizer to Reduce the Error
-  you can download dataset  from following link
- kaggle - https://www.kaggle.com/sarvajna/dogs-vs-cats-keras-solution
+â€¢	Performed Classification using Deep Learning, Artificial Neural Networks 
+â€¢	Perform Supervised Learning using Python  
+â€¢	Classify the Animal using CNN (dogs or Cats)
+â€¢	Implementing Keras and TensorFlow to Classify the Image 
+â€¢	Use Gradient Descent Optimizer to Reduce the Error
+    you can download dataset  from following link
+        kaggle - https://www.kaggle.com/sarvajna/dogs-vs-cats-keras-solution
